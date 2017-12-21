@@ -23,5 +23,20 @@ html {
   border: 3px solid #e2e2e2;
   border-radius: 10px;
   text-align: left;
-  }
+}
+.cards dl {
+margin-bottom: 1rem;
+}
+
+.cards dt {
+  display: inline-block;
+  width: 6em;
+  font-style: italic;
+}
+
+.cards dd {
+  display: inline-block;
+  margin: 0;
+  min-width: 9em;
+}
 }
