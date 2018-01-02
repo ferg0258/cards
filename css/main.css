@@ -8,12 +8,14 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 .cards {
   margin: 0;
   padding: 0;
   list-style-type: none;
   text-align: center;
 }
+
 .cards li {
   display: inline-block;
   margin: 0 .5em 1em;
@@ -24,6 +26,7 @@ html {
   border-radius: 10px;
   text-align: left;
 }
+
 .cards dl {
 margin-bottom: 1rem;
 }
